@@ -7,7 +7,7 @@ This is a brand new mechanism, aka Progressive Website BackEnd Mechanism, poweri
 ## Version:&nbsp;:one:.:zero:
 ## Status:&nbsp;UND&nbsp;[ Analysis ]&nbsp;:pushpin:
 ## Streamlined:&nbsp;YES
-## GA Point Releases: Starting in 2021-07-15 with "PHP BCU"
+## GA Point Releases: Starting in 2021-07-15 with "PHP BCU"&nbsp;:pushpin:
 #
 ## Download&nbsp;:lock:
 #
